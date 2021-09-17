@@ -1,0 +1,24 @@
+{
+  "short_name": "Locupay",
+  "name": "Locupay - Blockchain space for everyone",
+  "description": "Blockchain space for everyone",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "status_bar": "#f28f1a",
+  "theme_color": "#6639e4",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/img/brand/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/brand/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
