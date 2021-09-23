@@ -1,7 +1,7 @@
 {
   "short_name": "Locupay",
   "name": "Locupay - Blockchain space for everyone",
-  "description": "Blockchain space for everyone",
+  "description": "Locupay is a seamless and secure solution for individuals and SMEs to transact crypto assets.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
