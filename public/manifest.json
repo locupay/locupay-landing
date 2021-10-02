@@ -1,15 +1,24 @@
 {
   "short_name": "Locupay",
   "name": "Locupay - Blockchain space for all",
-  "description": "Locupay is a seamless and secure solution for individuals and SMEs to transact crypto assets",
+  "description": "Locupay is a seamless and secure solution for individuals, merchants, and businesses to transact crypto assets",
   "start_url": "/",
-  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "status_bar": "#f28f1a",
   "theme_color": "#6639e4",
   "background_color": "#ffffff",
+  "categories": [
+    "tools",
+    "payment",
+    "blockchain"
+  ],
   "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
     {
       "src": "/assets/img/brand/icons/icon-192x192.png",
       "type": "image/png",
@@ -19,6 +28,33 @@
       "src": "/assets/img/brand/icons/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+    }
+  ],
+  "screenshots" : [
+    {
+      "src": "/assets/img/brand/mockups/splashscreen.png",
+      "type": "image/png",
+      "sizes": "458x852"
+    },
+    {
+      "src": "/assets/img/brand/mockups/dApp_homescreen.png",
+      "type": "image/png",
+      "sizes": "458x852"
+    },
+    {
+      "src": "/assets/img/brand/mockups/wallet_homescreen.png",
+      "type": "image/png",
+      "sizes": "459x852"
+    },
+    {
+      "src": "/assets/img/brand/mockups/dApp_connectModal.png",
+      "type": "image/png",
+      "sizes": "458x852"
+    },
+    {
+      "src": "/assets/img/brand/mockups/wallet_balanceStats.png",
+      "type": "image/png",
+      "sizes": "458x852"
     }
   ]
 }
